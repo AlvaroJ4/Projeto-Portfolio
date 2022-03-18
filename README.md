@@ -1,5 +1,5 @@
-# portifolio
-Bem vindo ao meu Portifólio
+# portfolio
+Bem vindo ao meu Portfólio
 
 ## Ícones
 
