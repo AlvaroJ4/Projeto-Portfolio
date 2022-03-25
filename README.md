@@ -7,3 +7,4 @@ Bem vindo ao meu Portfólio
 :up: atualização
 :beatle: correção de bugs
 :checkered_flag: release
+:camera: novas imagens
